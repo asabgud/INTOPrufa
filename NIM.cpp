@@ -54,6 +54,8 @@ int main( )
 		}
 	}
 	while ( val != 3 );
+	
+	cout << "Herna breytti asabgud skjalinu" << endl; 
 
 	return 0;
 }
