@@ -35,7 +35,7 @@ int main( )
 	do
 	{
 		cout << endl << endl << endl;
-		cout << "                ADALVALMYND " << endl << endl;
+		cout << "                ADALVALMYND Heidars Arnar Stefanssonar " << endl << endl; //Her breytti Heidaros13 skjalinu
 		cout << "                      1. Spila NIM" << endl;
 		cout << "                      2. Birta reglurnar i NIM" << endl;
 		cout << "                      3. Haetta " << endl << endl;
